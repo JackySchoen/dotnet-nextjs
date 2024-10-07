@@ -1,3 +1,4 @@
 sources.txt
 src\AuctionService\bin
 src\AuctionService\obj
+.vscode
